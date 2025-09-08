@@ -21,10 +21,10 @@ with smooth switching between **Login** and **Sign-up** modes.
 ## 🖼️ Preview
 
 Login Page:\
-![Login Screenshot](./assets/login-preview.png)
+![Login Screenshot](assets/login-preview.png)
 
 Sign-up Page:\
-![Signup Screenshot](./assets/signup-preview.png)
+![Signup Screenshot](assets/signup-preview.png)
 
 ------------------------------------------------------------------------
 
